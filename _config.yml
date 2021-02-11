@@ -85,8 +85,8 @@ author:
   bio              : "Hello!"
   location         : "South Bend, IN"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            : "mfariasanguiano@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "mfarias04"
   google_plus      :
   keybase          :
-  instagram        : "@mfariasanguiano"
+  instagram        : "m.farias.anguiano"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@mfariasanguiano"
+  twitter          : "mfariasanguiano"
   vine             :
   weibo            :
   xing             :
